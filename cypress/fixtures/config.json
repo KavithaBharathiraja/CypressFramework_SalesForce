@@ -1,0 +1,13 @@
+
+  {
+    "url": "https://login.salesforce.com",
+    "username": "kavi@bharathiraja.com",
+    "password": "password12345",
+    "wrongPassword": "password",
+    "errormessage": "Please enter your password.",
+    "errormessage1": "Please check your username and password. If you still can't log in, contact your Salesforce administrator.",
+    "suceesmessage": "Login | Salesforce",
+    "xpath": "//a[text()='Logout']",
+    "expectedtext": "kavi@bharathiraja.com"
+  }
+
